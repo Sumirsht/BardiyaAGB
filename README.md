@@ -1,4 +1,4 @@
-# BardiyaAGB
+#  TensorFlow-Based AGB Estimation using Remote Sensing in Bardiya, Nepal
 
 This project estimates Above Ground Biomass Density (AGBD) in Bardiya, Nepal using Landsat satellite imagery, vegetation indices, elevation data, and deep learning (TensorFlow/Keras). The model predicts biomass at 100m resolution and evaluates its accuracy using test data split from ground samples.
 
